@@ -15,5 +15,5 @@
 **Git**<br>
 [230125 - Permission to 저장소 denied to 계정.md](https://github.com/waveinyu/dev-yu-Error/blob/main/230125%20-%20Permission%20to%20%EC%A0%80%EC%9E%A5%EC%86%8C%20denied%20to%20%EA%B3%84%EC%A0%95.md)<br>
 
-**etc**
-[230206 - Unexpected token o in JSON at position 1](https://github.com/waveinyu/dev-yu-Error/blob/main/230125%20-%20Permission%20to%20%EC%A0%80%EC%9E%A5%EC%86%8C%20denied%20to%20%EA%B3%84%EC%A0%95.md)<br>
+**Etc**<br>
+[230206 - Unexpected token o in JSON at position 1](https://github.com/waveinyu/dev-yu-Error/blob/main/230206%20-%20Unexpected%20token%20o%20in%20JSON%20at%20position%201.md)<br>
