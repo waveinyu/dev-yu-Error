@@ -6,8 +6,6 @@
 **MySQL**<br>
 [MySQL Statement](https://github.com/waveinyu/dev-yu-Error/blob/main/MySQL_Statement.md)<br>
 
-[MySQL_mysql2_transaction](https://github.com/waveinyu/dev-yu-Error/blob/main/MySQL_mysql2_transaction.md)<br>
-
 [220802 access denied for user 'root'@'localhost' (using password YES / NO)](<https://github.com/waveinyu/dev-yu-Error/blob/main/220802%20-%20access%20denied%20for%20user(using%20password%20YES%20or%20NO).md>)<br>
 
 [230113 - Too many connections on LIGHTSAIL DATABASE.md](https://github.com/waveinyu/dev-yu-Error/blob/main/230113%20-%20Too%20many%20connections%20on%20LIGHTSAIL%20DATABASE.md)<br>
@@ -20,6 +18,6 @@
 [230125 - Permission to 저장소 denied to 계정.md](https://github.com/waveinyu/dev-yu-Error/blob/main/230125%20-%20Permission%20to%20%EC%A0%80%EC%9E%A5%EC%86%8C%20denied%20to%20%EA%B3%84%EC%A0%95.md)<br>
 
 **Etc**<br>
-[](https://github.com/waveinyu/dev-yu-Error/blob/main/230206%20-%20Unexpected%20token%20o%20in%20JSON%20at%20position%201.md)<br>
+[230221 - TypeError: Cannot read properties of undefined (reading 'columnA')와 for문](<https://github.com/waveinyu/dev-yu-Error/blob/main/230221%20-%20Cannot%20read%20properties%20of%20undefined%20(reading%20'columnA')%EC%99%80%20for%EB%AC%B8.md>)<br>
 
 [230206 - Unexpected token o in JSON at position 1](https://github.com/waveinyu/dev-yu-Error/blob/main/230206%20-%20Unexpected%20token%20o%20in%20JSON%20at%20position%201.md)<br>
