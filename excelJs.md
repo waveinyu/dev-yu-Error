@@ -2,7 +2,7 @@
 
 <br>
 
-### excelJs 구동 과정
+## excelJs 구동 과정
 
 #1 **새로운 워크북(엑셀) 생성**
 
@@ -57,7 +57,7 @@ workbook.xlsl.write();
 | header                | Description                                                                                          |
 | --------------------- | ---------------------------------------------------------------------------------------------------- |
 | `Content-Type`        | - 전송되는 컨텐츠가 어떤 유형인지 명시<br>- 브라우저는 해당 데이터를 어떻게 처리해야 하는지 판단<br> |
-| `Content-Disposition` | - 컨텐츠가 어떻게 처리되어야 하는지의 방식 명시<br>-                                              |
+| `Content-Disposition` | - 컨텐츠가 어떻게 처리되어야 하는지의 방식 명시<br>-                                                 |
 
 ```javascript
 const fileName = "file_name";
