@@ -24,4 +24,4 @@
 
 [230316 - excelJs](https://github.com/waveinyu/dev-yu-Error/blob/main/excelJs.md)<br>
 
-[230330 - Swagger docs 분리하기](https://github.com/waveinyu/dev-yu-Error/blob/main/Swagger%20-%20API%20%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0.md)<br>
+[230330 - Swagger docs 분리하기](https://github.com/waveinyu/dev-yu-Error/blob/main/Swagger%20docs%20%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0.md)<br>
