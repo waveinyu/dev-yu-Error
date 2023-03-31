@@ -21,3 +21,7 @@
 [230206 - Unexpected token o in JSON at position 1](https://github.com/waveinyu/dev-yu-Error/blob/main/230206%20-%20Unexpected%20token%20o%20in%20JSON%20at%20position%201.md)<br>
 
 [230221 - TypeError: Cannot read properties of undefined (reading 'columnA')와 for문](<https://github.com/waveinyu/dev-yu-Error/blob/main/230221%20-%20Cannot%20read%20properties%20of%20undefined%20(reading%20'columnA')%EC%99%80%20for%EB%AC%B8.md>)<br>
+
+[230316 - excelJs](https://github.com/waveinyu/dev-yu-Error/blob/main/excelJs.md)<br>
+
+[230330 - Swagger docs 분리하기](https://github.com/waveinyu/dev-yu-Error/blob/main/Swagger%20-%20API%20%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0.md)<br>
