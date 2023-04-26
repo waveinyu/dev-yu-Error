@@ -6,7 +6,7 @@
 **AWS**<br>
 [230113 - Too many connections on LIGHTSAIL DATABASE.md](https://github.com/waveinyu/dev-yu-Error/blob/main/230113%20-%20Too%20many%20connections%20on%20LIGHTSAIL%20DATABASE.md)<br>
 
-[230426 - LIGHTSAIL DATABASE PARAMETERS]()
+[230426 - LIGHTSAIL DATABASE PARAMETERS](https://github.com/waveinyu/dev-yu-Error/blob/main/230426%20-%20LIGHTSAIL%20DATABASE%20PARAMETERS.md)
 
 **MySQL**<br>
 [MySQL Statement](https://github.com/waveinyu/dev-yu-Error/blob/main/MySQL_Statement.md)<br>
