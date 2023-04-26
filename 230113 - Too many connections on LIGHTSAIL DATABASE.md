@@ -51,7 +51,7 @@ SET GLOBAL MAX_CONNECTIONS=500;
 
 ```javascript
 // aws-cli lightsail parameters
-aws lightsail get-relational-database-parameters --relational-database-name sugarmanwork-renewal-db
+aws lightsail get-relational-database-parameters --relational-database-name 데이터베이스이름
 ```
 
 <img src="https://user-images.githubusercontent.com/99732695/212461213-95543d8f-53a7-4863-aa99-9ead42136e5f.png"> <br>
