@@ -6,7 +6,9 @@
 **AWS**<br>
 [230113 - Too many connections on LIGHTSAIL DATABASE.md](https://github.com/waveinyu/dev-yu-Error/blob/main/230113%20-%20Too%20many%20connections%20on%20LIGHTSAIL%20DATABASE.md)<br>
 
-[230426 - LIGHTSAIL DATABASE PARAMETERS](https://github.com/waveinyu/dev-yu-Error/blob/main/230426%20-%20LIGHTSAIL%20DATABASE%20PARAMETERS.md)
+[230426 - LIGHTSAIL DATABASE PARAMETERS](https://github.com/waveinyu/dev-yu-Error/blob/main/230426%20-%20LIGHTSAIL%20DATABASE%20PARAMETERS.md)<br>
+
+[230427 - Lightsail Database(MySQL) timezone 변경](<https://github.com/waveinyu/dev-yu-Error/blob/main/230427%20-%20Lightsail%20Database(MySQL)%20timezone%20%EB%B3%80%EA%B2%BD.md>)<br>
 
 **MySQL**<br>
 [MySQL Statement](https://github.com/waveinyu/dev-yu-Error/blob/main/MySQL_Statement.md)<br>
