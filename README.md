@@ -1,14 +1,14 @@
 ## _Error : You don't know me yet at all👻_
 
-**Next.js**<br>
-[221229 You cannot use both an optional and required catch-all route at the same level](https://github.com/waveinyu/dev-yu-Error/blob/main/221229%20-%20You%20cannot%20use%20both%20an%20optional%20and%20required%20catch-all%20route%20at%20the%20same%20level.md)<br>
-
 **AWS**<br>
 [230113 - Too many connections on LIGHTSAIL DATABASE.md](https://github.com/waveinyu/dev-yu-Error/blob/main/230113%20-%20Too%20many%20connections%20on%20LIGHTSAIL%20DATABASE.md)<br>
 
 [230426 - LIGHTSAIL DATABASE PARAMETERS](https://github.com/waveinyu/dev-yu-Error/blob/main/230426%20-%20LIGHTSAIL%20DATABASE%20PARAMETERS.md)<br>
 
 [230427 - Lightsail Database(MySQL) timezone 변경](<https://github.com/waveinyu/dev-yu-Error/blob/main/230427%20-%20Lightsail%20Database(MySQL)%20timezone%20%EB%B3%80%EA%B2%BD.md>)<br>
+
+**Next.js**<br>
+[221229 You cannot use both an optional and required catch-all route at the same level](https://github.com/waveinyu/dev-yu-Error/blob/main/221229%20-%20You%20cannot%20use%20both%20an%20optional%20and%20required%20catch-all%20route%20at%20the%20same%20level.md)<br>
 
 **MySQL**<br>
 [MySQL Statement](https://github.com/waveinyu/dev-yu-Error/blob/main/MySQL_Statement.md)<br>
