@@ -31,5 +31,6 @@
 
 [230330 - Swagger docs 분리하기](https://github.com/waveinyu/dev-yu-Error/blob/main/Swagger%20docs%20%EB%B6%84%EB%A6%AC%ED%95%98%EA%B8%B0.md)<br>
 
-[Prisma 적응기(230503~)](https://github.com/waveinyu/dev-yu-Error/blob/main/230503%20-%20Prisma%20%EC%A0%81%EC%9D%91%EA%B8%B0.md)
-[Typescript 적응기(230509~)]()
+[Prisma 적응기(230503~)](https://github.com/waveinyu/dev-yu-Error/blob/main/Prisma%20%EC%A0%81%EC%9D%91%EA%B8%B0.md)<br>
+
+[Typescript 적응기(230509~)](https://github.com/waveinyu/dev-yu-Error/blob/main/Typescript%20%EC%A0%81%EC%9D%91%EA%B8%B0.md)<br>
