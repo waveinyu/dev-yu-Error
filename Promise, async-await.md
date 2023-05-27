@@ -46,9 +46,11 @@ async function sendMail(cateogry, info) {
 const handler(async (req, res)=>{
 
     ...
-    await sendMail(cateogry, info)
+    await sendMail(category, info)
 
     })
 ```
 
-`sendMail()`을 호출할 때 `async`를 붙여주는 거였다.
+`sendMail()`을 호출할 때 `async`를 붙여주는 거였다. 나의 경우는 이미 `sendMail()`을 비동기 함수로 만들었기 때문에 `await`를 쓸 생각을 못 했다. 결국 크게 보면 sendMail()의 작업이 다 끝나지 않은 채로 응답이 가게 되면 `await`로 작업을 제어시키면 되는 것이었다. 이미 `handler`도 비동기 함수이기 때문에 `await`가 사용이 가능한 것!<br>
+
+같이 비동기 처리를 했는데도 스택오버플로우와 다르게 되지 않길래 진짜 아예 서드파티로 넘어가야 하나? 싶었는데 해결해서 좋았다. 해결한 후에 같은 팀원분이랑 다른 개발자분과도 얘기 나누고 나니 어제 처음 글 쓸 떄보다 더 이해가 잘 되는 것 같다.
